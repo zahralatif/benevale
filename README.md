@@ -7,7 +7,6 @@ Benevale is a restaurant website designed to offer a visually appealing and user
 ## Features
 
 - **Responsive Design**: Optimized for viewing on various devices, including desktops, tablets, and mobile phones.
-- **Menu Showcase**: Stylish presentation of the restaurant's menu items.
 - **Interactive UI**: Engaging user interface with smooth transitions and interactive elements.
 - **Contact Form**: Easy-to-use contact form for customers to reach out to the restaurant.
 
